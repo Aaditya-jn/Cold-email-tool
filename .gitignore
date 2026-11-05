@@ -1,0 +1,14 @@
+# Sensitive / personal — never commit these
+credentials.json
+token.json
+resume.pdf
+template.json
+sent_log.json
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
